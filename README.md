@@ -1,2 +1,2 @@
 # Tableau
-visulazations portfoliio
+visualizations portfolio using Tableau
